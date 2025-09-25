@@ -11,4 +11,7 @@ This is my portofolio as Data Analyst
 
 * Data gather from Strava Member
 
-# [Project 3: Dashboard Sobat Sabtu Jakarta]
+# [Project 3: Dashboard Sobat Sabtu Jakarta](https://lookerstudio.google.com/reporting/8f954f1c-535d-487c-b1e9-d8c6acb5048d)
+
+* Data gather from Strava
+* Use KMeans
