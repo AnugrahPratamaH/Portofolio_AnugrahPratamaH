@@ -1,5 +1,5 @@
 # Portofolio Anugrah Pratama
-This is my portofolio as Data Analyst
+This is my portofolio as Data Analyst, some project talk about Sobat Sabtu. Sobat Sabtu is running club located in Bandung, Indonesia.
 
 # [Project 1: Monthly Report Sobat Sabtu Jakarta](https://github.com/AnugrahPratamaH/Report/blob/main/SobatSabtuJakarta/Report%20JKT%20July%2025.pdf)
 
