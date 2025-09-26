@@ -3,9 +3,8 @@ This is my portofolio as Data Analyst, some project talk about Sobat Sabtu. Soba
 
 # [Project 1: Monthly Report Sobat Sabtu Jakarta](https://github.com/AnugrahPratamaH/Report/blob/main/SobatSabtuJakarta/Report%20JKT%20July%2025.pdf)
 
-* Data from Strava Member
-* Information about running activity
-
+* The purpose of monthly report is to monitor the progress member's activity and obtain information about ongoing activities such as
+  the top performers for that month, athlete / member behavior such as which days are most active and the furthest distance traveled by athletes.
 
 # [Project 2: Clustering Sobat Sabtu Jakarta Member] 
 
