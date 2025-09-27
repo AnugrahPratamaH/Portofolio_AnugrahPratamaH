@@ -6,9 +6,9 @@ This is my portofolio as Data Analyst, several project related to Sobat Sabtu. [
 * The purpose of monthly report is to monitor the progress member's activity and obtain information about ongoing activities such as
   the top performers for that month, athlete / member behavior such as which days are most active and the furthest distance traveled by athletes. </div>
 
-# [Project 2: Clustering Sobat Sabtu Jakarta Member] 
+# [Project 2: Clustering Sobat Sabtu Jakarta Member](https://github.com/AnugrahPratamaH/Report/blob/main/Running_Analytics_2025.ipynb)
 
-* Data gather from Strava Member
+* Clustering Member Sobat Sabtu Jakarta, the purpose to find out member abilities
 
 # [Project 3: Dashboard Sobat Sabtu Jakarta](https://lookerstudio.google.com/reporting/8f954f1c-535d-487c-b1e9-d8c6acb5048d)
 
