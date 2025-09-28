@@ -12,5 +12,6 @@ This is my portofolio as Data Analyst, several project related to Sobat Sabtu. [
 
 # [Project 3: Dashboard Sobat Sabtu Jakarta](https://lookerstudio.google.com/reporting/8f954f1c-535d-487c-b1e9-d8c6acb5048d)
 
-* Data gather from Strava
-* Use KMeans
+* Dashboard Sobat Sabtu Jakarta build to gather data and making actionable insight to help monitor member progress.
+* The dashboard can track activites and set runner goals, and can be can used easy comparasion (comparing each member's performance)
+* Show all abilities every member, which can influece their running development.
